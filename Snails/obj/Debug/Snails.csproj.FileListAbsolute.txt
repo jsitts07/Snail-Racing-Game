@@ -1,0 +1,9 @@
+C:\Users\Jason\Desktop\Snails\Snails\bin\Debug\Snails.exe.config
+C:\Users\Jason\Desktop\Snails\Snails\bin\Debug\Snails.exe
+C:\Users\Jason\Desktop\Snails\Snails\bin\Debug\Snails.pdb
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.Form1.resources
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.Properties.Resources.resources
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.exe
+C:\Users\Jason\Desktop\Snails\Snails\obj\Debug\Snails.pdb
